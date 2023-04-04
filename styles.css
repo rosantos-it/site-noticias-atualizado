@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+
 .tituloUm {
     margin-top: 50px;
     margin-bottom: 30px;
@@ -17,7 +22,7 @@
 
 header {
     width: auto;
-    height: 230px;
+    height: 220px;
     margin: 0;
     padding: 0;
     display: flex;
@@ -32,7 +37,7 @@ header {
 
 footer {
     width: auto;
-    height: 100px;
+    height: 90px;
     margin: 0;
     margin-top: 70px;
     padding: 0;
