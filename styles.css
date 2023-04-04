@@ -5,6 +5,7 @@ body {
 
 .tituloUm {
     margin-top: 50px;
+    margin-left: 10px;
     margin-bottom: 30px;
     font-family: 'Roboto', sans-serif;
 }
@@ -102,6 +103,13 @@ a {
 }
 
 @media only screen and (min-width: 1024px) {
+    .tituloUm {
+        margin-top: 50px;
+        margin-left: 20px;
+        margin-bottom: 30px;
+        font-family: 'Roboto', sans-serif;
+    }
+
     .geralImg {
         width: 500px;
         height: 310px;
@@ -120,5 +128,5 @@ a {
         margin-right: 50px;
         margin-bottom: 20px;
         display: inline-block;
-    }
+    }   
 }
