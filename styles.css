@@ -91,7 +91,6 @@ a {
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
-    justify-content: center;
 }
 
 .divGeral {
@@ -99,7 +98,6 @@ a {
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
-    justify-content: center;
 }
 
 @media only screen and (min-width: 1024px) {
